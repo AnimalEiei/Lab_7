@@ -35,3 +35,5 @@ travel_cost = 0
 for travel in trip:
    travel_cost += travel.find_cost()
 print travel_cost
+
+print("HELLO")
