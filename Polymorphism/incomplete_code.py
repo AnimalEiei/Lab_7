@@ -37,3 +37,4 @@ for travel in trip:
 print travel_cost
 
 print("HELLO")
+print("HI I'm Pure :D")
